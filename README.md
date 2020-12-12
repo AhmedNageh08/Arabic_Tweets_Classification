@@ -16,30 +16,6 @@ label
 
 ## Result:
 
-
-algorithm                ngram     accuracy  precision recall    
----------------------------------------------------------------------
-LinearSVC                         1     0.770     0.770     0.770
-SVC                               1     0.800     0.803     0.800
-MultinomialNB                     1     0.761     0.762     0.761
-BernoulliNB                       1     0.758     0.763     0.758
-SGDClassifier                     1     0.764     0.768     0.764
-DecisionTreeClassifier            1     0.572     0.693     0.572
-RandomForestClassifier            1     0.512     0.655     0.512
-KNeighborsClassifier              1     0.698     0.748     0.698
-LinearSVC                         2     0.774     0.774     0.774
-SVC                               2     0.800     0.802     0.800
-MultinomialNB                     2     0.769     0.770     0.769
-BernoulliNB                       2     0.762     0.772     0.762
-SGDClassifier                     2     0.772     0.776     0.772
-DecisionTreeClassifier            2     0.572     0.694     0.572
-RandomForestClassifier            2     0.513     0.635     0.513
-KNeighborsClassifier              2     0.698     0.750     0.698
-LinearSVC                         3     0.772     0.772     0.772
-SVC                               3     0.799     0.802     0.799
-MultinomialNB                     3     0.771     0.772     0.771
-BernoulliNB                       3     0.761     0.775     0.761
-SGDClassifier                     3     0.773     0.777     0.773
-DecisionTreeClassifier            3     0.572     0.694     0.572
-RandomForestClassifier            3     0.511     0.713     0.511
-KNeighborsClassifier              3     0.699     0.750     0.699
+<p align="center">
+    <img src='./misc/logo_mmfashion.png' width=320>
+</p>
